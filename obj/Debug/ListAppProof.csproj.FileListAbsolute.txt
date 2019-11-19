@@ -1,0 +1,10 @@
+C:\Users\steph\source\repos\ListAppProof\bin\Debug\ListAppProof.exe.config
+C:\Users\steph\source\repos\ListAppProof\bin\Debug\ListAppProof.exe
+C:\Users\steph\source\repos\ListAppProof\bin\Debug\ListAppProof.pdb
+C:\Users\steph\source\repos\ListAppProof\obj\Debug\ListAppProof.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\ListAppProof\obj\Debug\ListAppProof.Form1.resources
+C:\Users\steph\source\repos\ListAppProof\obj\Debug\ListAppProof.Properties.Resources.resources
+C:\Users\steph\source\repos\ListAppProof\obj\Debug\ListAppProof.csproj.GenerateResource.cache
+C:\Users\steph\source\repos\ListAppProof\obj\Debug\ListAppProof.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\ListAppProof\obj\Debug\ListAppProof.exe
+C:\Users\steph\source\repos\ListAppProof\obj\Debug\ListAppProof.pdb
